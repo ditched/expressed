@@ -1,2 +1,2 @@
 # expressed
-ExpressJS Boilerplate
+ExpressJS MVC Template
